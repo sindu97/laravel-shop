@@ -1,0 +1,6 @@
+DEBUG - 2020-03-11 10:30:26 --> UTF-8 Support Enabled
+DEBUG - 2020-03-11 10:30:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-11 10:30:26 --> Config file loaded: E:\VIKASH\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-03-11 10:30:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-11 10:30:26 --> Encrypt Class Initialized
+DEBUG - 2020-03-11 10:30:26 --> Total execution time: 0.0980

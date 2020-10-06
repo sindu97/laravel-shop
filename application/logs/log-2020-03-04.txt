@@ -1,0 +1,440 @@
+DEBUG - 2020-03-04 16:36:41 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 16:36:41 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 16:36:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 16:36:41 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 16:36:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 16:36:41 --> Encrypt Class Initialized
+ERROR - 2020-03-04 16:36:41 --> Severity: error --> Exception: Unable to locate the model you have specified: Product_model E:\VIKASH\xampp\htdocs\ci_copy\system\core\Loader.php 348
+DEBUG - 2020-03-04 16:40:39 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 16:40:39 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 16:40:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 16:40:39 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 16:40:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 16:40:39 --> Encrypt Class Initialized
+ERROR - 2020-03-04 16:40:39 --> Severity: error --> Exception: Call to undefined method MY_Loader::front_view() E:\VIKASH\xampp\htdocs\ci_copy\application\controllers\Home.php 15
+DEBUG - 2020-03-04 17:01:54 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:01:54 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:01:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:01:54 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:01:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:01:54 --> Encrypt Class Initialized
+ERROR - 2020-03-04 17:01:54 --> Severity: Notice --> Undefined variable: seo_description E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 7
+ERROR - 2020-03-04 17:01:54 --> Severity: Notice --> Undefined variable: seo_keywords E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 8
+ERROR - 2020-03-04 17:01:54 --> Severity: Notice --> Undefined variable: site_title E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 9
+ERROR - 2020-03-04 17:01:54 --> Severity: Notice --> Undefined variable: view E:\VIKASH\xampp\htdocs\ci_copy\application\core\MY_Controller.php 24
+DEBUG - 2020-03-04 17:02:22 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:02:22 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:02:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:02:22 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:02:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:02:22 --> Encrypt Class Initialized
+ERROR - 2020-03-04 17:02:22 --> Severity: Notice --> Undefined variable: seo_description E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 7
+ERROR - 2020-03-04 17:02:22 --> Severity: Notice --> Undefined variable: seo_keywords E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 8
+ERROR - 2020-03-04 17:02:22 --> Severity: Notice --> Undefined variable: site_title E:\VIKASH\xampp\htdocs\ci_copy\application\views\frontend\inc\header.php 9
+DEBUG - 2020-03-04 17:02:22 --> Total execution time: 0.0410
+DEBUG - 2020-03-04 17:03:17 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:17 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:03:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:17 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:17 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:17 --> Total execution time: 0.0670
+DEBUG - 2020-03-04 17:03:27 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:27 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:27 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:27 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:27 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:27 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:27 --> Total execution time: 0.0390
+DEBUG - 2020-03-04 17:03:27 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:27 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:27 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:27 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:27 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:27 --> Total execution time: 0.1060
+DEBUG - 2020-03-04 17:03:27 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:27 --> Total execution time: 0.0840
+DEBUG - 2020-03-04 17:03:32 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:32 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:32 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:03:32 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:03:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:03:32 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:03:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:03:32 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:04 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:04 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:04 --> Encrypt Class Initialized
+ERROR - 2020-03-04 17:05:04 --> Severity: Notice --> Undefined variable: total_messages E:\VIKASH\xampp\htdocs\ci_copy\application\views\admin\inc\header.php 58
+DEBUG - 2020-03-04 17:05:30 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:30 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:30 --> Encrypt Class Initialized
+ERROR - 2020-03-04 17:05:30 --> Severity: Notice --> Undefined variable: total_messages E:\VIKASH\xampp\htdocs\ci_copy\application\views\admin\inc\header.php 58
+DEBUG - 2020-03-04 17:05:30 --> Total execution time: 0.0450
+DEBUG - 2020-03-04 17:05:30 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:30 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:30 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:30 --> Total execution time: 0.0840
+DEBUG - 2020-03-04 17:05:30 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:30 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:30 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:30 --> Total execution time: 0.1070
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0620
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0410
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0510
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0840
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0850
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0410
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0430
+DEBUG - 2020-03-04 17:05:31 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:05:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:05:31 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:05:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:05:31 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:05:31 --> Total execution time: 0.0430
+DEBUG - 2020-03-04 17:07:48 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:07:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:07:48 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:07:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:07:48 --> Encrypt Class Initialized
+ERROR - 2020-03-04 17:07:48 --> Severity: Notice --> Undefined variable: total_messages E:\VIKASH\xampp\htdocs\ci_copy\application\views\admin\inc\header.php 58
+DEBUG - 2020-03-04 17:07:48 --> Total execution time: 0.1140
+DEBUG - 2020-03-04 17:07:48 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:07:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:07:48 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:07:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:07:48 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:07:48 --> Total execution time: 0.0530
+DEBUG - 2020-03-04 17:09:57 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:09:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:09:57 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:09:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:09:57 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:09:57 --> Total execution time: 0.0560
+DEBUG - 2020-03-04 17:09:58 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:09:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:09:58 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:09:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:09:58 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:09:58 --> Total execution time: 0.0910
+DEBUG - 2020-03-04 17:10:02 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:10:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:10:02 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:10:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:10:02 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:10:02 --> Total execution time: 0.0570
+DEBUG - 2020-03-04 17:10:04 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:10:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:10:04 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:10:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:10:05 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:10:05 --> Total execution time: 0.0400
+DEBUG - 2020-03-04 17:10:23 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:10:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:10:23 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:10:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:10:23 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:10:23 --> Total execution time: 0.0620
+DEBUG - 2020-03-04 17:10:23 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:10:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:10:23 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:10:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:10:23 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:10:23 --> Total execution time: 0.1060
+DEBUG - 2020-03-04 17:14:02 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:14:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:14:03 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:14:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:14:03 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:14:03 --> Total execution time: 0.0820
+DEBUG - 2020-03-04 17:14:06 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:14:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:14:06 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:14:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:14:06 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:14:06 --> Total execution time: 0.0540
+DEBUG - 2020-03-04 17:14:08 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:14:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:14:08 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:14:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:14:08 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:14:08 --> Total execution time: 0.0390
+DEBUG - 2020-03-04 17:14:10 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:14:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:14:10 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:14:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:14:10 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:14:10 --> Total execution time: 0.0490
+DEBUG - 2020-03-04 17:15:10 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:15:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:15:10 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:15:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:15:10 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:15:10 --> Total execution time: 0.0350
+DEBUG - 2020-03-04 17:15:36 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:15:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:15:36 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:15:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:15:36 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:15:36 --> Total execution time: 0.0370
+DEBUG - 2020-03-04 17:16:42 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:16:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:16:42 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:16:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:16:42 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:16:42 --> Total execution time: 0.0310
+DEBUG - 2020-03-04 17:16:57 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:16:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:16:57 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:16:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:16:57 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:16:57 --> Total execution time: 0.0320
+DEBUG - 2020-03-04 17:19:45 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:19:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:19:45 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:19:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:19:45 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:19:45 --> Total execution time: 0.0670
+DEBUG - 2020-03-04 17:19:47 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:19:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:19:47 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:19:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:19:47 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:19:47 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:19:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:19:47 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:19:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:19:47 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:19:47 --> Total execution time: 0.0310
+DEBUG - 2020-03-04 17:19:49 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:19:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:19:49 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:19:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:19:49 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:19:49 --> Total execution time: 0.0430
+DEBUG - 2020-03-04 17:34:09 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:34:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:34:09 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:34:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:34:09 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:34:09 --> Total execution time: 0.0900
+DEBUG - 2020-03-04 17:34:24 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:34:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:34:24 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:34:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:34:24 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:34:24 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:34:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:34:24 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:34:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:34:24 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:34:24 --> Total execution time: 0.0690
+DEBUG - 2020-03-04 17:35:50 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:35:50 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:35:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:35:50 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:35:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:35:50 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:35:50 --> Total execution time: 0.0550
+DEBUG - 2020-03-04 17:35:53 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:35:53 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:35:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:35:53 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:35:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:35:53 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:35:53 --> Total execution time: 0.0990
+DEBUG - 2020-03-04 17:38:34 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:38:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:38:34 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:38:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:38:35 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:38:35 --> Total execution time: 0.0940
+DEBUG - 2020-03-04 17:38:44 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:38:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:38:44 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:38:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:38:44 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:38:44 --> Total execution time: 0.0470
+DEBUG - 2020-03-04 17:38:52 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:38:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:38:52 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:38:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:38:52 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:38:52 --> Total execution time: 0.0580
+DEBUG - 2020-03-04 17:38:57 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:38:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:38:57 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:38:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:38:57 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:38:57 --> Total execution time: 0.0610
+DEBUG - 2020-03-04 17:45:56 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:45:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:45:56 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:45:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:45:56 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:45:56 --> Total execution time: 0.0760
+DEBUG - 2020-03-04 17:46:01 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:46:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:46:01 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:46:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:46:01 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:46:01 --> Total execution time: 0.0480
+DEBUG - 2020-03-04 17:47:04 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:47:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:47:04 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:47:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:47:04 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:47:04 --> Total execution time: 0.0330
+DEBUG - 2020-03-04 17:47:04 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:47:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:47:05 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:47:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:47:05 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:47:05 --> Total execution time: 0.0690
+DEBUG - 2020-03-04 17:47:39 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:47:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:47:39 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:47:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:47:39 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:47:39 --> Total execution time: 0.0920
+DEBUG - 2020-03-04 17:48:39 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:48:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:48:39 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:48:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:48:39 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:48:39 --> Total execution time: 0.0440
+DEBUG - 2020-03-04 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:48:41 --> No URI present. Default controller set.
+DEBUG - 2020-03-04 17:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:48:41 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:48:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:48:41 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:48:41 --> Total execution time: 0.0540
+DEBUG - 2020-03-04 17:48:45 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:48:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:48:45 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:48:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:48:45 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:48:45 --> Total execution time: 0.0510
+DEBUG - 2020-03-04 17:48:45 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:48:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:48:45 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:48:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:48:45 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:48:45 --> Total execution time: 0.0980
+DEBUG - 2020-03-04 17:49:02 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:49:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:49:02 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:49:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:49:02 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:49:02 --> Total execution time: 0.1030
+DEBUG - 2020-03-04 17:49:02 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 17:49:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 17:49:03 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 17:49:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 17:49:03 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 17:49:03 --> Total execution time: 0.0830
+DEBUG - 2020-03-04 18:08:28 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:08:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:08:28 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:08:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:08:28 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:08:28 --> Total execution time: 0.0980
+DEBUG - 2020-03-04 18:13:27 --> UTF-8 Support Enabled
+ERROR - 2020-03-04 18:13:27 --> Severity: error --> Exception: syntax error, unexpected '$base64' (T_VARIABLE) E:\VIKASH\xampp\htdocs\ci_copy\application\helpers\site_helper.php 80
+DEBUG - 2020-03-04 18:13:34 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:13:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:13:34 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:13:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:13:34 --> Encrypt Class Initialized
+ERROR - 2020-03-04 18:13:34 --> Severity: error --> Exception: Call to undefined function get_mime_by_extension() E:\VIKASH\xampp\htdocs\ci_copy\application\helpers\site_helper.php 75
+DEBUG - 2020-03-04 18:14:40 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:14:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:14:40 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:14:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:14:40 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:14:40 --> Total execution time: 0.0470
+DEBUG - 2020-03-04 18:19:29 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:19:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:19:29 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:19:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:19:29 --> Encrypt Class Initialized
+ERROR - 2020-03-04 18:19:29 --> Severity: Notice --> Only variables should be passed by reference E:\VIKASH\xampp\htdocs\ci_copy\application\helpers\site_helper.php 75
+DEBUG - 2020-03-04 18:19:29 --> Total execution time: 0.0880
+DEBUG - 2020-03-04 18:20:01 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:20:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:20:01 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:20:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:20:01 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:20:01 --> Total execution time: 0.0640
+DEBUG - 2020-03-04 18:20:48 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:20:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:20:48 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:20:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:20:48 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:20:48 --> Total execution time: 0.0760
+DEBUG - 2020-03-04 18:24:01 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:24:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:24:01 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:24:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:24:01 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:24:01 --> Total execution time: 0.0320
+DEBUG - 2020-03-04 18:24:14 --> UTF-8 Support Enabled
+DEBUG - 2020-03-04 18:24:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-04 18:24:14 --> Config file loaded: E:\VIKASH\xampp\htdocs\ci_copy\application\config/config.php
+DEBUG - 2020-03-04 18:24:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-03-04 18:24:14 --> Encrypt Class Initialized
+DEBUG - 2020-03-04 18:24:14 --> Total execution time: 0.0520

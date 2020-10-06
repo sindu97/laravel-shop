@@ -1,0 +1,1160 @@
+DEBUG - 2020-05-02 06:36:24 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:36:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:36:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:36:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:36:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:36:26 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:36:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:36:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:36:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:36:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:36:27 --> Total execution time: 0.3562
+DEBUG - 2020-05-02 06:36:44 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:36:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:36:44 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:36:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:36:44 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:36:45 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:36:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:36:45 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:36:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:36:45 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:36:45 --> Total execution time: 0.0982
+DEBUG - 2020-05-02 06:37:20 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:20 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:20 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:20 --> Total execution time: 0.4723
+DEBUG - 2020-05-02 06:37:26 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:26 --> Total execution time: 0.1646
+DEBUG - 2020-05-02 06:37:38 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:38 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:38 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:38 --> Total execution time: 0.1101
+DEBUG - 2020-05-02 06:37:44 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:44 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:44 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:44 --> Total execution time: 0.0992
+DEBUG - 2020-05-02 06:37:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:37:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:37:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:37:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:37:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:37:48 --> Total execution time: 0.1087
+DEBUG - 2020-05-02 06:38:02 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:38:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:38:02 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:38:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:38:02 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:38:05 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:38:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:38:05 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:38:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:38:05 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:38:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:38:05 --> Total execution time: 0.2866
+DEBUG - 2020-05-02 06:40:47 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:40:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:40:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:40:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:40:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:40:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:40:48 --> Total execution time: 0.2289
+DEBUG - 2020-05-02 06:41:09 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:41:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:41:09 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:41:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:41:09 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:41:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:41:09 --> Total execution time: 0.1694
+DEBUG - 2020-05-02 06:41:54 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:41:54 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:41:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:41:54 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:41:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:41:54 --> Total execution time: 0.2016
+DEBUG - 2020-05-02 06:42:00 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:00 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:00 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:00 --> Total execution time: 0.1688
+DEBUG - 2020-05-02 06:42:06 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:06 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:06 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:06 --> Total execution time: 0.1310
+DEBUG - 2020-05-02 06:42:11 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:11 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:11 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:11 --> Total execution time: 0.1298
+DEBUG - 2020-05-02 06:42:17 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:17 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:17 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:17 --> Total execution time: 0.1218
+DEBUG - 2020-05-02 06:42:22 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:22 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:22 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:22 --> Total execution time: 0.1286
+DEBUG - 2020-05-02 06:42:24 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 06:42:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 06:42:24 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 06:42:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 06:42:24 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 06:42:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 06:42:24 --> Total execution time: 0.1400
+DEBUG - 2020-05-02 07:04:39 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:04:39 --> No URI present. Default controller set.
+DEBUG - 2020-05-02 07:04:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:04:39 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:04:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:04:40 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:04:40 --> Total execution time: 1.8681
+DEBUG - 2020-05-02 07:04:43 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:04:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:04:43 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:04:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:04:43 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:04:43 --> Total execution time: 0.3410
+DEBUG - 2020-05-02 07:04:43 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:04:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:04:43 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:04:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:04:43 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:04:44 --> Total execution time: 0.2240
+DEBUG - 2020-05-02 07:04:44 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:04:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:04:44 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:04:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:04:44 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:04:44 --> Total execution time: 0.1130
+DEBUG - 2020-05-02 07:04:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:04:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:04:49 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:04:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:04:49 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:04:49 --> Total execution time: 0.4020
+DEBUG - 2020-05-02 07:05:04 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:04 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:04 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:04 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:04 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:04 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:07 --> Total execution time: 2.4171
+DEBUG - 2020-05-02 07:05:16 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:16 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:16 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:16 --> Total execution time: 0.3510
+DEBUG - 2020-05-02 07:05:20 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:20 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:20 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:21 --> Total execution time: 0.2970
+DEBUG - 2020-05-02 07:05:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:26 --> Total execution time: 0.4020
+DEBUG - 2020-05-02 07:05:37 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:37 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:37 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:38 --> Total execution time: 0.3310
+DEBUG - 2020-05-02 07:05:45 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:45 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:45 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:45 --> Total execution time: 0.3430
+DEBUG - 2020-05-02 07:05:53 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:53 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:53 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:53 --> Total execution time: 0.1930
+DEBUG - 2020-05-02 07:05:57 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:05:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:05:57 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:05:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:05:57 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:05:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:05:57 --> Total execution time: 0.1840
+DEBUG - 2020-05-02 07:06:00 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:06:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:06:00 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:06:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:06:00 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:06:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:06:00 --> Total execution time: 0.1960
+DEBUG - 2020-05-02 07:06:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:06:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:06:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:06:08 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:06:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:06:08 --> Total execution time: 0.2780
+DEBUG - 2020-05-02 07:06:14 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:06:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:06:14 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:06:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:06:14 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:06:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:06:14 --> Total execution time: 0.1890
+DEBUG - 2020-05-02 07:19:45 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:19:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:19:45 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:19:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:19:45 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:19:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:19:45 --> Total execution time: 0.2110
+DEBUG - 2020-05-02 07:19:52 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:19:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:19:52 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:19:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:19:52 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:19:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:19:52 --> Total execution time: 0.1910
+DEBUG - 2020-05-02 07:20:04 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:20:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:20:04 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:20:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:20:04 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:20:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:20:04 --> Total execution time: 0.2190
+DEBUG - 2020-05-02 07:20:41 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:20:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:20:41 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:20:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:20:41 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:20:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:20:42 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:20:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:20:42 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:20:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:20:42 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:20:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:20:42 --> Total execution time: 0.1870
+DEBUG - 2020-05-02 07:25:01 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:25:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:25:01 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:25:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:25:01 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:25:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:25:01 --> Total execution time: 0.2370
+DEBUG - 2020-05-02 07:26:26 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:26:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:26:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:26:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:26:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:26:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:26:26 --> Total execution time: 0.2210
+DEBUG - 2020-05-02 07:26:50 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:26:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:26:50 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:26:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:26:50 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:26:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:26:50 --> Total execution time: 0.2100
+DEBUG - 2020-05-02 07:27:35 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:27:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:27:35 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:27:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:27:35 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:27:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:27:35 --> Total execution time: 0.2110
+DEBUG - 2020-05-02 07:27:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:27:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:27:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:27:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:27:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:27:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:27:49 --> Total execution time: 0.2180
+DEBUG - 2020-05-02 07:28:36 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:28:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:28:36 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:28:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:28:36 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:28:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:28:37 --> Total execution time: 0.2170
+DEBUG - 2020-05-02 07:28:38 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:28:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:28:38 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:28:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:28:38 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:28:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:28:38 --> Total execution time: 0.2250
+DEBUG - 2020-05-02 07:28:46 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:28:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:28:46 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:28:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:28:46 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:28:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:28:46 --> Total execution time: 0.2150
+DEBUG - 2020-05-02 07:29:09 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:29:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:29:09 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:29:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:29:09 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:29:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:29:10 --> Total execution time: 0.2090
+DEBUG - 2020-05-02 07:29:55 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:29:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:29:55 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:29:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:29:55 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:29:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:29:55 --> Total execution time: 0.2150
+DEBUG - 2020-05-02 07:30:41 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:30:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:30:41 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:30:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:30:41 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:30:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:30:41 --> Total execution time: 0.2340
+DEBUG - 2020-05-02 07:30:53 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:30:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:30:53 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:30:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:30:53 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:30:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:30:53 --> Total execution time: 0.2070
+DEBUG - 2020-05-02 07:31:26 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:31:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:31:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:31:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:31:26 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:31:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:31:26 --> Total execution time: 0.2080
+DEBUG - 2020-05-02 07:32:22 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:32:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:32:22 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:32:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:32:22 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:32:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:32:22 --> Total execution time: 0.2360
+DEBUG - 2020-05-02 07:33:29 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:33:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:33:29 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:33:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:33:29 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:33:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:33:29 --> Total execution time: 0.2140
+DEBUG - 2020-05-02 07:33:51 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:33:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:33:51 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:33:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:33:51 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:33:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:33:51 --> Total execution time: 0.4720
+DEBUG - 2020-05-02 07:34:49 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:34:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:34:49 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:34:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:34:49 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:34:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:34:49 --> Total execution time: 0.1950
+DEBUG - 2020-05-02 07:35:44 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:35:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:35:44 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:35:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:35:44 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:35:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:35:44 --> Total execution time: 0.2470
+DEBUG - 2020-05-02 07:35:52 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:35:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:35:52 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:35:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:35:52 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:35:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:35:52 --> Total execution time: 0.1910
+DEBUG - 2020-05-02 07:36:07 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:07 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:07 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:07 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:07 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:07 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:07 --> Total execution time: 0.1230
+DEBUG - 2020-05-02 07:36:20 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:20 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:20 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:20 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:20 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:20 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:20 --> Total execution time: 0.1200
+DEBUG - 2020-05-02 07:36:27 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:27 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:27 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:27 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:27 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:27 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:27 --> Total execution time: 0.1140
+DEBUG - 2020-05-02 07:36:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:48 --> Total execution time: 0.1200
+DEBUG - 2020-05-02 07:36:53 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:53 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:53 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:53 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:53 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:53 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:53 --> Total execution time: 0.1170
+DEBUG - 2020-05-02 07:36:57 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:58 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:58 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:58 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:36:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:36:58 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:36:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:36:58 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:36:58 --> Total execution time: 0.1240
+DEBUG - 2020-05-02 07:39:07 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:39:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:39:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:39:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:39:08 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:39:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:39:08 --> Total execution time: 0.2420
+DEBUG - 2020-05-02 07:39:19 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:39:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:39:19 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:39:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:39:19 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:39:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:39:19 --> Total execution time: 0.2050
+DEBUG - 2020-05-02 07:40:24 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:40:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:40:24 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:40:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:40:24 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:40:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:40:25 --> Total execution time: 0.2040
+DEBUG - 2020-05-02 07:40:27 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:40:27 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:40:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:40:27 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:40:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:40:27 --> Total execution time: 0.1980
+DEBUG - 2020-05-02 07:41:34 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:41:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:41:34 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:41:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:41:34 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:41:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:41:34 --> Total execution time: 0.2500
+DEBUG - 2020-05-02 07:41:39 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:41:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:41:39 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:41:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:41:39 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:41:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:41:39 --> Total execution time: 0.2640
+DEBUG - 2020-05-02 07:42:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:42:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:42:09 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:42:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:42:09 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:42:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:42:09 --> Total execution time: 0.2030
+DEBUG - 2020-05-02 07:42:15 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:42:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:42:15 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:42:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:42:15 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:42:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:42:15 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 07:42:17 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:42:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:42:17 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:42:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:42:17 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:42:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:42:18 --> Total execution time: 0.1800
+DEBUG - 2020-05-02 07:42:27 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:42:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:42:28 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:42:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:42:28 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:42:28 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:42:28 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:42:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:42:28 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:42:28 --> Total execution time: 0.1070
+DEBUG - 2020-05-02 07:43:00 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:43:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:43:00 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:43:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:43:00 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:43:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:43:00 --> Total execution time: 0.2140
+DEBUG - 2020-05-02 07:43:05 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:43:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:43:05 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:43:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:43:05 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:43:05 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:43:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:43:05 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:43:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:43:05 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:43:05 --> Total execution time: 0.1180
+DEBUG - 2020-05-02 07:44:12 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:44:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:44:12 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:44:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:44:12 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:44:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:44:12 --> Total execution time: 0.2060
+DEBUG - 2020-05-02 07:44:15 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:44:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:44:16 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:44:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:44:16 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:44:16 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:44:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:44:16 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:44:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:44:16 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:44:16 --> Total execution time: 0.1260
+DEBUG - 2020-05-02 07:50:58 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:50:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:50:58 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:50:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:50:58 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:50:58 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:50:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:50:58 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:50:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:50:58 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:50:58 --> Total execution time: 0.1230
+DEBUG - 2020-05-02 07:51:49 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:51:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:51:49 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:51:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:51:49 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:51:49 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:51:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:51:49 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:51:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:51:49 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:51:49 --> Total execution time: 0.1220
+DEBUG - 2020-05-02 07:52:37 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:52:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:52:37 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:52:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:52:37 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:52:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:52:37 --> Total execution time: 0.2330
+DEBUG - 2020-05-02 07:52:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:52:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:52:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:52:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:52:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:52:48 --> Total execution time: 0.1910
+DEBUG - 2020-05-02 07:53:01 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:01 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:01 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:53:01 --> Total execution time: 0.2230
+DEBUG - 2020-05-02 07:53:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:09 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:53:09 --> Total execution time: 0.1980
+DEBUG - 2020-05-02 07:53:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:25 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:25 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:53:25 --> Total execution time: 0.1930
+DEBUG - 2020-05-02 07:53:31 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:31 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:31 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:31 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:31 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:32 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:32 --> Total execution time: 0.1230
+DEBUG - 2020-05-02 07:53:54 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:54 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:54 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:54 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:53:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:53:54 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:53:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:53:54 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:53:54 --> Total execution time: 0.1260
+DEBUG - 2020-05-02 07:57:29 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:57:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:57:29 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:57:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:57:29 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:57:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 07:57:29 --> Total execution time: 0.2140
+DEBUG - 2020-05-02 07:57:35 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:57:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:57:35 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:57:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:57:35 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:57:35 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 07:57:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 07:57:35 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 07:57:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 07:57:35 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 07:57:35 --> Total execution time: 0.1090
+DEBUG - 2020-05-02 08:00:53 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:00:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:00:53 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:00:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:00:53 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:00:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:00:53 --> Total execution time: 0.2050
+DEBUG - 2020-05-02 08:01:17 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:01:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:01:17 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:01:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:01:17 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:01:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:01:17 --> Total execution time: 0.2060
+DEBUG - 2020-05-02 08:01:22 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:01:22 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:01:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:01:22 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:01:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:01:22 --> Total execution time: 0.1990
+DEBUG - 2020-05-02 08:01:33 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:01:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:01:33 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:01:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:01:33 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:01:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:01:33 --> Total execution time: 0.2050
+DEBUG - 2020-05-02 08:02:06 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:02:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:02:06 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:02:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:02:06 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:02:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:02:06 --> Total execution time: 0.2250
+DEBUG - 2020-05-02 08:02:16 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:02:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:02:16 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:02:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:02:16 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:02:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:02:16 --> Total execution time: 0.2570
+DEBUG - 2020-05-02 08:02:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:02:25 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:02:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:02:25 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:02:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:02:25 --> Total execution time: 0.2170
+DEBUG - 2020-05-02 08:02:30 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:02:30 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:02:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:02:30 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:02:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:02:30 --> Total execution time: 0.2130
+DEBUG - 2020-05-02 08:03:39 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:03:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:03:39 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:03:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:03:39 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:03:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:03:39 --> Total execution time: 0.2100
+DEBUG - 2020-05-02 08:03:46 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:03:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:03:46 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:03:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:03:46 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:03:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:03:46 --> Total execution time: 0.2180
+DEBUG - 2020-05-02 08:03:54 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:03:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:03:54 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:03:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:03:54 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:03:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:03:54 --> Total execution time: 0.2170
+DEBUG - 2020-05-02 08:03:58 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:03:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:03:59 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:03:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:03:59 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:03:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:03:59 --> Total execution time: 0.1940
+DEBUG - 2020-05-02 08:04:11 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:04:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:04:11 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:04:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:04:11 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:04:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:04:11 --> Total execution time: 0.3440
+DEBUG - 2020-05-02 08:06:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:06:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:06:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:06:08 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:06:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:06:08 --> Total execution time: 0.2320
+DEBUG - 2020-05-02 08:06:14 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:06:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:06:14 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:06:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:06:14 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:06:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:06:14 --> Total execution time: 0.2000
+DEBUG - 2020-05-02 08:06:21 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:06:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:06:21 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:06:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:06:21 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:06:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:06:21 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:06:48 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:06:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:06:48 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:06:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:06:48 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:06:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:06:48 --> Total execution time: 0.2360
+DEBUG - 2020-05-02 08:06:54 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:06:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:06:54 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:06:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:06:54 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:06:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:06:55 --> Total execution time: 0.2020
+DEBUG - 2020-05-02 08:07:01 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:07:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:07:01 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:07:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:07:01 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:07:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:07:01 --> Total execution time: 0.2190
+DEBUG - 2020-05-02 08:07:11 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:07:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:07:11 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:07:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:07:11 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:07:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:07:11 --> Total execution time: 0.2160
+DEBUG - 2020-05-02 08:07:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:07:25 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:07:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:07:25 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:07:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:07:25 --> Total execution time: 0.3110
+DEBUG - 2020-05-02 08:07:52 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:07:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:07:52 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:07:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:07:52 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:07:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:07:52 --> Total execution time: 0.2040
+DEBUG - 2020-05-02 08:07:56 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:07:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:07:56 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:07:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:07:56 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:07:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:07:56 --> Total execution time: 0.2280
+DEBUG - 2020-05-02 08:08:34 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:08:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:08:34 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:08:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:08:34 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:08:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:08:34 --> Total execution time: 0.2260
+DEBUG - 2020-05-02 08:08:39 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:08:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:08:39 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:08:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:08:39 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:08:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:08:39 --> Total execution time: 0.2030
+DEBUG - 2020-05-02 08:08:55 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:08:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:08:55 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:08:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:08:55 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:08:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:08:56 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:08:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:08:56 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:08:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:08:56 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:08:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:08:56 --> Total execution time: 0.1990
+DEBUG - 2020-05-02 08:09:02 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:09:02 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:09:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:09:02 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:09:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:09:03 --> Total execution time: 0.2020
+DEBUG - 2020-05-02 08:09:15 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:09:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:09:15 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:09:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:09:15 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:09:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:09:15 --> Total execution time: 0.1890
+DEBUG - 2020-05-02 08:11:42 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:11:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:11:42 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:11:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:11:42 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:11:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:11:42 --> Total execution time: 0.2330
+DEBUG - 2020-05-02 08:11:50 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:11:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:11:50 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:11:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:11:50 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:11:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:11:51 --> Total execution time: 0.2840
+DEBUG - 2020-05-02 08:11:59 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:11:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:11:59 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:11:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:11:59 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:11:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:11:59 --> Total execution time: 0.2620
+DEBUG - 2020-05-02 08:12:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:12:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:12:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:12:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:12:08 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:12:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:12:08 --> Total execution time: 0.2080
+DEBUG - 2020-05-02 08:12:15 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:12:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:12:15 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:12:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:12:15 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:12:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:12:15 --> Total execution time: 0.2100
+DEBUG - 2020-05-02 08:13:17 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:13:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:13:17 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:13:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:13:17 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:13:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:13:18 --> Total execution time: 0.2140
+DEBUG - 2020-05-02 08:14:07 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:14:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:14:07 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:14:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:14:07 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:14:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:14:07 --> Total execution time: 0.2090
+DEBUG - 2020-05-02 08:14:16 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:14:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:14:16 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:14:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:14:16 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:14:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:14:16 --> Total execution time: 0.2630
+DEBUG - 2020-05-02 08:14:22 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:14:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:14:22 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:14:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:14:22 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:14:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:14:22 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:14:26 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:14:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:14:26 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:14:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:14:27 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:14:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:14:27 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:20:44 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:20:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:20:44 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:20:44 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:20:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:20:44 --> Total execution time: 0.2020
+DEBUG - 2020-05-02 08:21:15 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:21:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:21:15 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:21:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:21:15 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:21:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:21:15 --> Total execution time: 0.3820
+DEBUG - 2020-05-02 08:21:23 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:21:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:21:24 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:21:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:21:24 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:21:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:21:24 --> Total execution time: 0.2070
+DEBUG - 2020-05-02 08:22:18 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:22:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:22:18 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:22:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:22:18 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:22:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:22:18 --> Total execution time: 0.2140
+DEBUG - 2020-05-02 08:23:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:23:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:23:25 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:23:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:23:25 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:23:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:23:25 --> Total execution time: 0.2290
+DEBUG - 2020-05-02 08:23:32 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:23:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:23:32 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:23:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:23:32 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:23:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:23:32 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:23:41 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:23:41 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:23:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:23:41 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:23:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:23:41 --> Total execution time: 0.1990
+DEBUG - 2020-05-02 08:23:46 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:23:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:23:46 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:23:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:23:46 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:23:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:23:46 --> Total execution time: 0.2050
+DEBUG - 2020-05-02 08:34:34 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:34:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:34:34 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:34:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:34:34 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:34:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:34:34 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:34:43 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:34:43 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:34:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:34:43 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:34:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:34:43 --> Total execution time: 0.2010
+DEBUG - 2020-05-02 08:34:50 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:34:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:34:50 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:34:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:34:50 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:34:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:34:51 --> Total execution time: 0.2330
+DEBUG - 2020-05-02 08:35:04 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:35:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:35:04 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:35:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:35:04 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:35:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:35:04 --> Total execution time: 0.2120
+DEBUG - 2020-05-02 08:43:34 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:43:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:43:35 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:43:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:43:36 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:43:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:43:38 --> Total execution time: 7.5804
+DEBUG - 2020-05-02 08:43:50 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:43:50 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:43:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:43:50 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:43:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:43:50 --> Total execution time: 0.1990
+DEBUG - 2020-05-02 08:43:56 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:43:56 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:43:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:43:56 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:43:57 --> Total execution time: 0.3850
+DEBUG - 2020-05-02 08:44:08 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:44:08 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:44:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:44:08 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:44:08 --> Total execution time: 0.2190
+DEBUG - 2020-05-02 08:45:21 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:45:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:45:21 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:45:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:45:21 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:45:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:45:21 --> Total execution time: 0.2220
+DEBUG - 2020-05-02 08:45:32 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:45:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:45:32 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:45:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:45:32 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:45:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:45:33 --> Total execution time: 0.2310
+DEBUG - 2020-05-02 08:45:46 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:45:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:45:46 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:45:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:45:47 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:45:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:45:47 --> Total execution time: 0.2010
+DEBUG - 2020-05-02 08:45:52 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:45:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:45:52 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:45:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:45:52 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:45:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:45:52 --> Total execution time: 0.2460
+DEBUG - 2020-05-02 08:46:02 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:46:02 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:46:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:46:02 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:46:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:46:02 --> Total execution time: 0.2250
+DEBUG - 2020-05-02 08:46:10 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:46:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:46:10 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:46:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:46:10 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:46:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:46:10 --> Total execution time: 0.2420
+DEBUG - 2020-05-02 08:46:51 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:46:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:46:51 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:46:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:46:51 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:46:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:46:51 --> Total execution time: 0.2030
+DEBUG - 2020-05-02 08:46:56 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:46:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:46:56 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:46:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:46:56 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:46:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:46:56 --> Total execution time: 0.2310
+DEBUG - 2020-05-02 08:47:10 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:47:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:47:10 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:47:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:47:10 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:47:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:47:10 --> Total execution time: 0.2360
+DEBUG - 2020-05-02 08:47:56 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:47:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:47:56 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:47:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:47:56 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:47:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:47:56 --> Total execution time: 0.2240
+DEBUG - 2020-05-02 08:48:03 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:48:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:48:03 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:48:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:48:03 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:48:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:48:03 --> Total execution time: 0.2220
+DEBUG - 2020-05-02 08:48:17 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:48:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:48:17 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:48:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:48:17 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:48:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:48:17 --> Total execution time: 0.2450
+DEBUG - 2020-05-02 08:48:25 --> UTF-8 Support Enabled
+DEBUG - 2020-05-02 08:48:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-05-02 08:48:25 --> Config file loaded: C:\xampp\htdocs\elite\application\config/config.php
+DEBUG - 2020-05-02 08:48:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-05-02 08:48:25 --> Encrypt Class Initialized
+DEBUG - 2020-05-02 08:48:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2020-05-02 08:48:25 --> Total execution time: 0.2290
